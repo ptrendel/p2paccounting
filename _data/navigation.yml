@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "A propos"
+    url: /apropos/
+book:
+  - title: Introduction
+    children:
+      - title: "Crédits"
+        url: /book/credits.html
+      - title: "Avant Propos"
+        url: /book/avant-propos.html
+      - title: "Résumé"
+        url: /book/resume.html
+  - title: Chapitre 1
+    url: /book/chapitre1.html
