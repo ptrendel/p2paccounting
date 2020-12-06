@@ -15,3 +15,6 @@ book:
     children:
       - title: "L’étude de la Fondation P2P sur les biens communs et la transition des biens communs"
         url: /book/chapitre1.html
+  - title: "2 : Outils et technologies pour des écosystèmes de production intégrés, équitables et durables"
+    url: /book/chapitre2.html
+        
