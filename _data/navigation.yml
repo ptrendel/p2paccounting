@@ -17,4 +17,11 @@ book:
         url: /book/chapitre1.html
   - title: "2 : Outils et technologies pour des écosystèmes de production intégrés, équitables et durables"
     url: /book/chapitre2.html
+    children:
+      - title: "Introdution"
+        url: /book/chapitre2.html#introduction
+      - title: "Outils d'intégration mutuelle"
+        url: /book/chapitre2.html#outils-dint%C3%A9gration-mutuelle
+      - title: "Outils de circulation et d'échange"
+        url: /book/chapitre2.html#outils-de-circulation-et-d%C3%A9change
         

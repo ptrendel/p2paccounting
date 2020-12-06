@@ -8,7 +8,7 @@ sidebar:
 toc: true
 ---
 
-## introduction 
+## Introduction 
 
 Nous assistons à la surface d'un large éventail d'outils et de pratiques numériques pertinents pour représenter la valeur des interactions sociales et économiques. Divers groupes sociaux ont commencé à organiser leurs efforts pour exploiter les opportunités des infrastructures technologiques partagées, en investissant leur propre vision et leurs ambitions dans leur développement.
 
@@ -94,7 +94,7 @@ Le modèle de DAOstack fonctionne au-dessus de la blockchain Ethereum et il est 
 
 Cependant, il offre une nouvelle perspective sur l'émission et la distribution de crypto-jetons, qui est orientée vers le soutien d'efforts collectifs et écosystémiques. Comme l'ECSA, il lie la valeur des jetons à la production réelle de produits et services utiles à partir d'une collaboration en réseau, permettant aux pairs de décider et d'appliquer leurs propres règles de coordination et de systèmes de récompense. Plus important encore, il offre une interface qui ouvre ces possibilités à un plus grand nombre de personnes qui n'ont pas forcément de compétences en programmation, ainsi qu'un système natif pour faciliter le lancement et l'accompagnement de nouvelles initiatives.
 
-### Outils de circulation et d'échange 
+## Outils de circulation et d'échange 
 
 Cette section se concentre sur les outils de mise en œuvre de l'échange et de la distribution de «valeur».
 
