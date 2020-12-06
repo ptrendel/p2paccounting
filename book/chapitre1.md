@@ -53,7 +53,8 @@ La prochaine étape dans la création de ces écosystèmes naissants exige de pr
 
 Bien entendu, la technologie n'est pas neutre, car sa conception reflète des intentions humaines, des intérêts matériels et un rapport de force particulier entre les développeurs, les bailleurs de fonds, les utilisateurs, etc. Nous disposons d'un modèle à quatre quadrants pour expliquer cette conception de la technologie axée sur les valeurs.
 
-Fig3.1
+![P2P socio-technical dynamics](/assets/images/chapitre1_figure3_1.png)
+*Figure 2 : P2P socio-technical dynamics*
 
 Un premier modèle consiste à permettre des comportements P2P (à la fois des formes d'échange de marché communes et P2P) par le biais de plateformes d'entreprise détenues et contrôlées de manière centralisée : pensez à Facebook/Google et Uber/Airbnb comme prototypes pour cela. Ce modèle, qui inclut également des acteurs étatiques qui visent à contrôler la communication et les plateformes Internet, pourrait être appelé Léviathan, puisqu'il s'agit de surveillance, de contrôle et d'encouragement du comportement humain, et de capture de la valeur des roturiers.
 Le deuxième modèle, qui est celui qui sera le plus discuté dans cette étude, est le modèle du capitalisme distribué. Il est constitué de systèmes formellement décentralisés qui visent à créer un usage sans permission en évitant les gardiens centralisés (nous modifierons cette simplification excessive plus tard). Nous appelons ce modèle Mammon16 , car le but est d'extraire des profits, malgré l'utilisation de technologies à code source ouvert et de codes communs.

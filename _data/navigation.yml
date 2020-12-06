@@ -11,5 +11,7 @@ book:
         url: /book/avant-propos.html
       - title: "Résumé"
         url: /book/resume.html
-  - title: Chapitre 1
-    url: /book/chapitre1.html
+  - title: "1 : Le contexte de cette étude"
+    children:
+      - title: "L’étude de la Fondation P2P sur les biens communs et la transition des biens communs"
+        url: /book/chapitre1.html
