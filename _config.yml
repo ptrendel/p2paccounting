@@ -2,3 +2,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-include-cache
 title: "P2P Accounting"
+subtitle: "Une comptabilité pair à pair pour la Survie de la planètePermalink"
+baseurl : "/p2paccounting"
