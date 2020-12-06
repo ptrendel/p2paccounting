@@ -3,4 +3,4 @@ plugins:
   - jekyll-include-cache
 title: "P2P Accounting"
 subtitle: "Une comptabilité pair à pair pour la Survie de la planètePermalink"
-baseurl : ""
+baseurl : "/p2paccounting"
