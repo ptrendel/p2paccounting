@@ -6,6 +6,9 @@ header:
 sidebar:
   nav: "book"
 toc: true
+toc_label: "Accès rapide"
+toc_sticky: true
+read_time: true
 ---
 
 ## Introduction 
@@ -47,7 +50,10 @@ Ci-dessous, nous présentons les projets suivants impliqués dans de telles entr
 
 En décrivant ces outils, nous ne revendiquons pas à ce stade leur pleine maturité technologique et leur exploitabilité, mais les projets ont tous été sélectionnés car ils ont effectivement démarré la production de leurs codages et infrastructures.
 
-### Agence spatiale économique (ECSA): Un environnement pour les espaces économiques interconnectés et les organisations programmables distribuées basées sur les communs
+### Agence spatiale économique (ECSA)
+**Un environnement pour les espaces économiques interconnectés et les organisations programmables distribuées basées sur les communs**
+
+![Agence spatiale économique (ECSA)]({{ site.baseurl }}/assets/images/chapitre2_ecsa.png)
 
 L'ECSA étend la notion d'organisation autonome distribuée à celle d'une organisation programmable distribuée (cDPO) basée sur les communs. Il veut créer les outils pour passer de la production coopérative de logiciels immatériels, c'est-à-dire étendre le paradigme open-source aux «espaces économiques open-source» basés sur les communs.
 
@@ -62,7 +68,10 @@ L'écosystème ECSA et les outils technologiques offrent une vision alternative 
 
 Les investisseurs ICO ne sont pas tellement intéressés par tout ce qui est produit par les nouvelles entreprises, mais spéculent principalement sur une augmentation potentielle du prix des crypto-jetons, afin de les vendre pour un profit rapide. L'ECSA franchit une étape importante pour contrer cette tendance, en reliant la valeur des jetons aux relations productives et à l'éthique interne des communautés qui les émettent. De plus, ils peuvent reconnaître différentes formes de contributions et en générer un enregistrement immuable pour guider l'interaction économique dans l'écosystème.
 
-### Holochain: une alternative à un grand livre distribué mondial, basé sur le biomimétisme
+### Holochain
+**Une alternative à un grand livre distribué mondial, basé sur le biomimétisme**
+
+![Holochain]({{ site.baseurl }}/assets/images/chapitre2_holochain.png)
 
 La principale raison pour laquelle le bitcoin et sa blockchain sont inefficaces en termes de consommation d'énergie est que chaque nouvelle transaction doit être validée par l'ensemble du réseau, ce qui entraîne une augmentation exponentielle du nombre de ressources nécessaires à la maintenance du système. Holochain fait cela de manière très différente. Ce n'est techniquement pas une blockchain, mais simplement un moyen pour des registres séparés de coopérer et de devenir interopérables les uns avec les autres. Par conséquent, Holochain est évolutif à l'infini au coût marginal.
 
@@ -79,7 +88,10 @@ En fin de compte, le type d'interaction activé par Holochain sera déterminé p
 Plus spécifiquement, Holochain crée les conditions qui peuvent permettre à diverses entités économiques de mutualiser et de partager plus librement les ressources et de convenir de règles de conduite communes qui peuvent être appliquées de manière P2P. Cela peut permettre une répartition plus uniforme du pouvoir entre les agents participants et accroître la transparence. Holochain n'est pas à lui seul un protocole de coopération sociale, mais il peut soutenir la création et l'application de tels protocoles partagés. Combinées à la possibilité d'émettre et de distribuer des crypto-jetons, les communautés peuvent créer des systèmes de récompense plus équitables et de nouveaux médias pour s'interfacer avec le marché, tout en maintenant leur intégrité à leurs valeurs et principes. De plus, Holochain va au-delà des crypto-jetons, en permettant et en favorisant des formes de crypto-comptabilité à crédit mutuel, qui ont une capacité d'expression beaucoup plus grande que les jetons.
 DAOstack: mécanismes intégrés pour une gouvernance à grande échelle
 
-### DAOstack est une plateforme décentralisée qui vise à faciliter l'auto-organisation des communautés productives en fournissant des outils d'auto-gouvernance collective. 
+### DAOstack 
+**DAOstack est une plateforme décentralisée qui vise à faciliter l'auto-organisation des communautés productives en fournissant des outils d'auto-gouvernance collective.**
+
+![DAOStack]({{ site.baseurl }}/assets/images/chapitre2_daostack.png)
 
 DAOstack, comme son nom l'indique déjà, fournit une pile d'outils technologiques pour le développement de DAO, comprenant: a) un cadre pour le déploiement de contrats intelligents sur la blockchain Ethereum (Arc); b) un environnement de développement frontal pour le développement d'applications décentralisées (Arc.js); et c) une interface utilisateur permettant le financement et l'allocation des ressources des organisations décentralisées (Alchemy). Ce dernier a été conçu de manière à permettre aux personnes sans connaissances techniques avancées d'interagir avec les autres couches du DAOstack, de lancer des DAO, d'émettre des crypto-jetons et d'inviter d'autres personnes à participer et à soutenir leurs idées.
 
@@ -104,7 +116,10 @@ Nous discutons des projets suivants:
 - FabChain est un projet de l'écosystème Fab Lab, visant à relier des Fab Labs spécifiques, à des systèmes de fabrication réels, pour lesquels ils fonctionnent comme des ressources collectives de R&D, en coopération avec les villes
 - Terra0, bien qu’au stade expérimental précoce, est basé sur le concept radical de donner une agence aux ressources naturelles, en les considérant comme des «DAO»
 
-### FairCoin et FairCoop: des outils pour un écosystème coopératif cosmo-local et ouvert
+### FairCoin et FairCoop
+**Des outils pour un écosystème coopératif cosmo-local et ouvert**
+
+![FairCoin et FairCoop]({{ site.baseurl }}/assets/images/chapitre2_faircoop.png)
 
 FairCoin, FairCoop et l'écosystème plus large dont il fait partie, visent à être un écosystème coopératif ouvert pour l'échange de valeur entre les communautés à la fois localement et à l'échelle mondiale. Elle est animée par les idées d'une «révolution intégrale» défendue par la coopérative catalane intégrale7 et est déjà utilisée par diverses communautés locales principalement en Espagne et en Grèce. C'est bien plus qu'une simple monnaie nouvelle et plus «juste», au sein d'un écosystème gouverné démocratiquement. Il vise plutôt à offrir une solution totale aux pratiques post-capitalistes.
 
@@ -118,7 +133,10 @@ La conception du système FairCoin lui permet de fonctionner efficacement avec d
 
 FairCoin est un cas très spécifique d'une monnaie qui a été créée pour servir un objectif spécifique par une communauté spécifique. Néanmoins, sa pertinence s'étend sans doute au-delà de l'écosystème FairCoop, étant un support de valeur explicitement conçu pour intégrer des règles de durabilité sociale et écologique. En outre, le fait qu'il soit basé sur le client bitcoin d'origine illustre de manière éloquente le potentiel de la technologie blockchain à permettre différents résultats socio-institutionnels, malgré ses fondements d'origine. Indépendamment de sa portée limitée, il montre comment la dynamique des petits groupes de communautés de confiance peut être mise à l'échelle au niveau mondial, facilitée par une infrastructure technologique qui incarne leurs valeurs et aspirations communes.
 
-### Trustlines: crédit mutuel pour le bien commun 
+### Trustlines
+**Crédit mutuel pour le bien commun**
+
+![Trustlines]({{ site.baseurl }}/assets/images/chapitre2_trustlines.png)
 
 La plupart des crypto-monnaies sont des monnaies spéculatives `` matières premières '', dont la valeur dépend de l'offre et de la demande mais qui n'ont pas de relation directe avec les réalités matérielles durables, en d'autres termes, les signaux de prix ne donnent pas suffisamment d'informations sur l'utilisation durable des ressources représentées. Deux alternatives pour les devises sont, d'une part, les devises adossées à des actifs qui donnent des informations sur les stocks et les flux d'une ressource, afin qu'elle reflète une utilisation durable (Fishcoin, Mangrove Coin, SolarCoin). Les autres sont des monnaies de crédit mutuel qui, à notre avis, peuvent refléter des contributions humaines à des projets communs. Trustlines apporte une telle fonction de crédit mutuel dans l'environnement du grand livre distribué.
 
@@ -131,7 +149,10 @@ Un aspect important de Trustlines est que les utilisateurs peuvent déterminer l
 
 Les lignes de confiance, en tant que solution monétaire, présentent certes de nombreuses lacunes de notre système monétaire et comptable actuel fondé sur le crédit. De plus, dans la mesure où les crédits sont libellés en monnaie fiduciaire, il reste limité par la dynamique de pouvoir des institutions financières actuelles. Néanmoins, il présente toujours une application intéressante de la technologie blockchain pour permettre le crédit mutuel de manière P2P, basée sur des contrats intelligents appliquant des critères socialement déterminés. De cette façon, même si les relations de confiance réelles entre les gens deviennent abstraites à mesure que le réseau évolue, il est toujours possible d'appliquer et d'étendre les règles et valeurs convenues à leur réseau respectif. En outre, la possibilité d'utiliser différents types de fonds comme dénominateurs peut offrir un plus grand degré de flexibilité et de résilience dans le système,
 
-### Cercles: un revenu de base décentralisé
+### Circles
+**Un revenu de base décentralisé**
+
+![Circles]({{ site.baseurl }}/assets/images/chapitre2_circles.png)
 
 Circles est un projet coopératif développant un revenu de base P2P en utilisant la blockchain Ethereum. Il vise à explorer l'argent en tant que bien commun où les communautés peuvent gouverner le fonctionnement de la monnaie. Revenu de base «ascendant», Circles favorise la coopération et l'interaction économique en encourageant les réseaux commerciaux locaux. Plus les membres de la communauté sont connectés les uns aux autres, plus leur réseau devient précieux.
 
@@ -143,7 +164,10 @@ Circles fonctionne via une série de contrats intelligents sur la blockchain Eth
 
 Le projet entreprendra un projet pilote de recherche à Berlin en 2019. L'objectif du projet pilote est de tester les hypothèses sur le système, y compris l'engagement des utilisateurs, et à ces fins, ils se sont associés à un collectif Radical Young Mothers, Prinzessinnengarten (un jardin communautaire et marché fermier) et Ola's Cafe, entre autres organisations. L'équipe lance également son propre café, Cafe Grundeinkommen, qui acceptera la monnaie et servira de centre communautaire pour la gouvernance des cercles. Enfin, l'application comprendra une fonction de «liste» permettant aux individus et aux organisations de publier des biens et services qu'ils sont prêts à échanger contre des cercles, favorisant ainsi un marché peer-to-peer.
 
-### Envienta: un environnement intégré pour la fabrication open-source
+### Envienta
+**Un environnement intégré pour la fabrication open-source**
+
+![Envienta]({{ site.baseurl }}/assets/images/chapitre2_envienta.png)
 
 Envienta met en place un environnement intégré pour la fabrication open-source intégrée.
 
@@ -159,7 +183,10 @@ En fin de compte, le système de jetons ENV envisage de prendre en charge un mod
 
 À ses débuts, Envienta se concentre sur les domaines liés à la vie durable, à la domotique, à l'énergie verte et à la production alimentaire. Son approche est explicitement orientée vers la promotion de la durabilité et de la production économique basée sur les communs. Il s'inspire du concept de «cosmolocalisme» 12 (Ramos et al., 2017), qui s'appuie sur le potentiel de connaissances, d'informations et de design partagés au niveau mondial, en confluence avec la fabrication distribuée localisée, impliquant idéalement la mutualisation des outils technologiques et de installations. Le cosmo-localisme favorise une moralité partagée à travers les communs, dans le sens de co-créer et cogérer des ressources partagées.
 
-### FabChain: Lier la recherche avancée aux métabolismes urbains et à la production et à la fabrication traditionnelles
+### FabChain
+**Lier la recherche avancée aux métabolismes urbains et à la production et à la fabrication traditionnelles**
+
+![Fabchain]({{ site.baseurl }}/assets/images/Chaptre2_fabchain.png)
 
 FabChain est idéalement positionné pour corréler les avancées de l'écosystème pionnier du Fab Lab, qui se concentre sur l'impression 3D et la fabrication relocalisée, en tant que laboratoires de R&D connectés à la fois à une ligue de villes engagées et à des organisations de fabrication.
 
@@ -176,7 +203,10 @@ En outre, FabChain vise à émettre une série de jetons de certification ad hoc
 
 Le modèle FabChain apporte des contributions significatives au développement de systèmes de responsabilisation aptes à une production durable et inclusive. Il illustre l'utilisation de la technologie du grand livre distribué pour coordonner simultanément la production sociale au niveau mondial, tout en contrôlant les flux de matières locaux. Cela peut être crucial, en particulier au niveau de la ville, où se concentre une capacité critique d'activités économiques circulaires, en raison de la densité de population, de l'existence de compétences et de capacités diverses et de matériaux disponibles pour la réutilisation. Il a déjà été soutenu (Bauwens & Niaros, 2018) que les villes offrent un contexte favorable aux transitions communes.
 
-### Terra0: Donner une agence DAO aux ressources naturelles
+### Terra0
+**Donner une agence DAO aux ressources naturelles**
+
+![Terra0]({{ site.baseurl }}/assets/images/chapitre2_terra0.png)
 
 Terra0 vise à créer une capacité pour les systèmes de ressources naturelles, comme les forêts, de développer leur propre agence technologique et juridique, en devenant des DAO. Plusieurs pays, tels que l'Équateur, la Bolivie et la Nouvelle-Zélande, ont commencé à donner un statut de personnalité juridique aux forêts et aux rivières. Mais jusqu'à présent, les organisations humaines doivent saisir les tribunaux afin de réaliser cette agence au nom des entités de ressources naturelles. Le projet terra0 va encore plus loin, en reliant l'entité ressource à des capteurs, des portefeuilles et en en faisant un DAO qui peut initier des actions par lui-même.
 
@@ -194,7 +224,10 @@ Il existe plusieurs inconvénients qui peuvent être identifiés dans le modèle
 
 Mais encore, terra0 reste une expérience intéressante qui tente de permettre différentes opportunités technologiques pour la gouvernance des communs. Il s'appuie sur une combinaison potentielle de technologies de télédétection, d'apprentissage automatique et de registre distribué pour développer des outils susceptibles de faciliter divers résultats dans la gestion collective des écosystèmes et des ressources naturels, éclairés par l'interaction des mailles des DAO, qui peuvent déployer certaines règles collectives. et normes.
 
-### Ostrom Contracts: une gouvernance commune pour l'évolution des contrats intelligents
+### Ostrom Contracts
+**Une gouvernance commune pour l'évolution des contrats intelligents**
+
+![OStrom Contracts]({{ site.baseurl }}/assets/images/chapitre2_ostromcontract.png)
 
 Les contrats Ostrom s'appuient sur une convergence prometteuse de la conception de contrats intelligents avec les principes d'Elinor Ostrom pour une gouvernance réussie des biens communs. Il offre une trajectoire utile pour le développement de la technologie blockchain pour permettre et soutenir l'auto-gouvernance et la durabilité.
 
@@ -203,16 +236,23 @@ L'idée des contrats Ostrom est inspirée des travaux d'Elinor Ostrom (1990) sur
 Plus précisément, Ostrom Contracts envisage la possibilité de contrats intelligents pour permettre le traitement des fonctions économiques à la manière des logiciels. Cela signifie prototyper, tester et itérer sur les «économies», en intégrant différents motifs et incitations dans le code logiciel.16 De cette façon, en compilant les principes d'Ostrom dans un produit logiciel, nous fournissons des informations sur la façon de mettre en œuvre avec succès la coopération économique basée sur les communs.
 Certaines interprétations possibles des principes d'Ostrom dans les fonctions liées aux contrats intelligents pourraient être les suivantes: 17 
 
-    • Principe 1: des limites clairement définies grâce à une adhésion basée sur des jetons 
+**Principe 1: des limites clairement définies grâce à une adhésion basée sur des jetons**
+
 Les agents qui bénéficient des ressources partagées et en prennent soin doivent être clairement définis, de même que les limites des ressources elles-mêmes. L'adhésion numérique peut aider à déterminer des limites de groupe claires et peut être mise en œuvre en possédant simplement un jeton. Les modèles d'adhésion motivent les gens à coopérer les uns avec les autres en augmentant la confiance et en réduisant le risque d'être exploités, en particulier lorsqu'ils peuvent toujours se retirer en vendant ou en transférant leur (s) jeton (s). En ce sens, les incitations à rester dans le groupe sont liées aux droits d'accès aux ressources naturelles communes et / ou aux avantages collectifs précieux (par exemple, un marché partagé et facile d'accès, plus de pouvoir de décision, un revenu supplémentaire).
-    • Principes 2 et 3: Gouvernance Blockchain pour la prise de décision collective avec les conditions locales en échec 
+
+**Principes 2 et 3: Gouvernance Blockchain pour la prise de décision collective avec les conditions locales en échec**
+
 Une gouvernance réussie basée sur les communs nécessite la restriction des règles et des normes en termes de temps, de lieu, de technologie et / ou de quantité d'unités de ressources, en fonction des conditions biophysiques locales, y compris les ressources naturelles, la main-d'œuvre, le matériel et / ou l'argent. De plus, la majorité des personnes concernées par les règles opérationnelles peuvent participer à leur modification et à leur application. Les contrats intelligents permettent une prise de décision rapide avec de faibles frais généraux. Les membres du groupe peuvent proposer de manière interactive des lignes directrices et des actions et voter sur toutes les propositions, déterminant ainsi leurs propres règles et les adaptant rapidement. La gouvernance de la blockchain peut permettre le développement de nouvelles méthodes de prise de décision, basées sur des règles prédéfinies. Ceux-ci sont éclairés par des préoccupations locales et mondiales.
     • Principe 4: Surveillance et apprentissage intelligents des machines
 Dans les systèmes autogérés, le suivi des conditions des ressources partagées et du comportement des individus est mis en œuvre soit par les membres du groupe eux-mêmes et / ou par les autorités responsables devant eux. Cependant, dans les grands écosystèmes naturels, comme les forêts tropicales amazoniennes ou le vaste paysage de la région du Sahel africain, il est presque impossible pour un groupe d'humains de surveiller en permanence une aussi grande quantité de territoire. L'automatisation évolutive peut offrir de grandes possibilités pour surveiller efficacement les biens communs plus vastes, tout en maintenant la confiance à travers les institutions collectives et la responsabilité envers les membres de la communauté. Un certain nombre de projets de recherche sur la surveillance de la faune, la planification des patrouilles et la prévision, tels que GainForest18 et The Great Elephant Census19, offrent déjà des preuves empiriques prometteuses sur la faisabilité de tels modèles.
-    • Principes 5 et 6: sanctions graduées et mécanismes de résolution des conflits faciles à appliquer grâce à des enjeux croissants et un juge des contrats intelligents 
+
+**Principes 5 et 6: sanctions graduées et mécanismes de résolution des conflits faciles à appliquer grâce à des enjeux croissants et un juge des contrats intelligents**
+
 Les groupes autonomes prévoient souvent des sanctions progressives pour les contrevenants aux règles opérationnelles afin d'éviter des violations répétées des règles. Ces sanctions dépendent de la gravité et du contexte de l'infraction et sont évaluées par d'autres pairs et / ou fonctionnaires responsables devant ces pairs. Les plates-formes à faible coût pour la résolution rapide des conflits offrent efficacité et résilience. Dans le cas d'un contrat intelligent, si une violation de règle est détectée, une fonction d'auto-application peut être invoquée, ce qui peut, par exemple, soustraire des frais d'un dépôt d'un certain agent. De même, différents niveaux de sanctions peuvent être décidés soit par vote, soit automatiquement.
 Pour les litiges plus complexes, un contrat intelligent peut également jouer le rôle du juge. Des jeux de défi / réponse peuvent également être mis en œuvre, où un groupe d'acteurs aura la possibilité de soumettre des preuves pour falsifier un certain ensemble de faits, et si aucune preuve convaincante n'est soumise sur une période de temps, alors la vérité peut être supposée.
-    • Principes 7 et 8: reconnaissance de niveau supérieur et conception imbriquée par résistance et complexité à la censure programmable 
+
+**Principes 7 et 8: reconnaissance de niveau supérieur et conception imbriquée par résistance et complexité à la censure programmable**
+
 Pour les systèmes plus larges, les droits des roturiers à concevoir leurs propres règles de gouvernance ne devraient pas être contestés par des autorités formelles externes. De même, la fourniture, le suivi, l'application, la résolution des conflits et la gouvernance doivent être organisés en plusieurs couches imbriquées pour permettre une résilience à plus grande échelle. La nature décentralisée et auto-exécutoire des contrats intelligents basés sur la blockchain garantit formellement que les décisions, prises dans ce cadre, sont exécutées sans censure ni contrôle des autorités de niveau supérieur. En outre, les architectures de contrats intelligents peuvent être arbitrairement complexes, permettant le développement de structures de gouvernance complexes sans limites de granularité.
 Les contrats Ostrom visent à encourager la coopération et l'auto-gouvernance. Les contrats intelligents servent de moyen de transaction et de gouvernance pour permettre aux gens de s'auto-organiser et de décider collectivement de questions communes. Pour cette raison, il devrait y avoir différents niveaux d'engagement pour le déploiement de contrats intelligents. Les contrats Ostrom faiblement couplés servent simplement de média pour l'auto-organisation, tandis que la communauté reste le principal agent pour faire appliquer et mettre en œuvre leurs règles de gouvernance et de sanctions. Les contrats étroitement couplés peuvent aller plus loin et appliquer automatiquement l'exécution. L'automatisation peut offrir des solutions prometteuses en transférant le niveau de confiance des utilisateurs vers le système. Cependant, les systèmes automatisés ont également de nombreuses implications potentiellement dangereuses car ils ne sont pas à l'abri des préjugés et des attaques adverses.
 

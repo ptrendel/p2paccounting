@@ -6,6 +6,9 @@ header:
 sidebar:
   nav: "book"
 toc: true
+toc_label: "Accès rapide"
+toc_sticky: true
+read_time: true
 ---
 
 ## L'étude de la Fondation P2P sur les biens communs et la transition des biens communs 

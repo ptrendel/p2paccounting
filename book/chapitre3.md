@@ -6,6 +6,9 @@ header:
 sidebar:
   nav: "book"
 toc: true
+toc_label: "Accès rapide"
+toc_sticky: true
+read_time: true
 ---
 
 Carlota Perez (2002) a défini un cadre d'évolution technologique basé sur une série de révolutions technologiques récurrentes. Chacune de celles-ci comprend deux phases: une phase d'installation, où de nouvelles innovations technologiques sont progressivement introduites et diffusées dans l'économie; et une phase de déploiement, où leur dynamique est réellement exploitée et optimisée. Entre les deux phases se trouve un tournant, généralement déclenché par une panne financière (par exemple, krach de 1929; krach de 2002/2007), suivi d'une période de récession économique. Ce tournant offre un espace vital pour que les réformes institutionnelles nécessaires aient lieu pour le déploiement des nouvelles technologies.
