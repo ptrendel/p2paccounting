@@ -71,7 +71,7 @@ Les investisseurs ICO ne sont pas tellement intéressés par tout ce qui est pro
 ### Holochain
 **Une alternative à un grand livre distribué mondial, basé sur le biomimétisme**
 
-![Holochain]({{ site.baseurl }}/assets/images/chapitre2_holochain.png)
+![Holochain]({{ site.baseurl }}/assets/images/Chapitre2_holochain.png)
 
 La principale raison pour laquelle le bitcoin et sa blockchain sont inefficaces en termes de consommation d'énergie est que chaque nouvelle transaction doit être validée par l'ensemble du réseau, ce qui entraîne une augmentation exponentielle du nombre de ressources nécessaires à la maintenance du système. Holochain fait cela de manière très différente. Ce n'est techniquement pas une blockchain, mais simplement un moyen pour des registres séparés de coopérer et de devenir interopérables les uns avec les autres. Par conséquent, Holochain est évolutif à l'infini au coût marginal.
 
@@ -119,7 +119,7 @@ Nous discutons des projets suivants:
 ### FairCoin et FairCoop
 **Des outils pour un écosystème coopératif cosmo-local et ouvert**
 
-![FairCoin et FairCoop]({{ site.baseurl }}/assets/images/chapitre2_faircoop.png)
+![FairCoin et FairCoop]({{ site.baseurl }}/assets/images/Chapitre2_faircoop.png)
 
 FairCoin, FairCoop et l'écosystème plus large dont il fait partie, visent à être un écosystème coopératif ouvert pour l'échange de valeur entre les communautés à la fois localement et à l'échelle mondiale. Elle est animée par les idées d'une «révolution intégrale» défendue par la coopérative catalane intégrale7 et est déjà utilisée par diverses communautés locales principalement en Espagne et en Grèce. C'est bien plus qu'une simple monnaie nouvelle et plus «juste», au sein d'un écosystème gouverné démocratiquement. Il vise plutôt à offrir une solution totale aux pratiques post-capitalistes.
 
@@ -136,7 +136,7 @@ FairCoin est un cas très spécifique d'une monnaie qui a été créée pour ser
 ### Trustlines
 **Crédit mutuel pour le bien commun**
 
-![Trustlines]({{ site.baseurl }}/assets/images/chapitre2_trustlines.png)
+![Trustlines]({{ site.baseurl }}/assets/images/Chapitre2_trustlines.png)
 
 La plupart des crypto-monnaies sont des monnaies spéculatives `` matières premières '', dont la valeur dépend de l'offre et de la demande mais qui n'ont pas de relation directe avec les réalités matérielles durables, en d'autres termes, les signaux de prix ne donnent pas suffisamment d'informations sur l'utilisation durable des ressources représentées. Deux alternatives pour les devises sont, d'une part, les devises adossées à des actifs qui donnent des informations sur les stocks et les flux d'une ressource, afin qu'elle reflète une utilisation durable (Fishcoin, Mangrove Coin, SolarCoin). Les autres sont des monnaies de crédit mutuel qui, à notre avis, peuvent refléter des contributions humaines à des projets communs. Trustlines apporte une telle fonction de crédit mutuel dans l'environnement du grand livre distribué.
 
@@ -167,7 +167,7 @@ Le projet entreprendra un projet pilote de recherche à Berlin en 2019. L'object
 ### Envienta
 **Un environnement intégré pour la fabrication open-source**
 
-![Envienta]({{ site.baseurl }}/assets/images/chapitre2_envienta.png)
+![Envienta]({{ site.baseurl }}/assets/images/Chapitre2_envienta.png)
 
 Envienta met en place un environnement intégré pour la fabrication open-source intégrée.
 
@@ -206,7 +206,7 @@ Le modèle FabChain apporte des contributions significatives au développement d
 ### Terra0
 **Donner une agence DAO aux ressources naturelles**
 
-![Terra0]({{ site.baseurl }}/assets/images/chapitre2_terra0.png)
+![Terra0]({{ site.baseurl }}/assets/images/Chapitre2_terra0.png)
 
 Terra0 vise à créer une capacité pour les systèmes de ressources naturelles, comme les forêts, de développer leur propre agence technologique et juridique, en devenant des DAO. Plusieurs pays, tels que l'Équateur, la Bolivie et la Nouvelle-Zélande, ont commencé à donner un statut de personnalité juridique aux forêts et aux rivières. Mais jusqu'à présent, les organisations humaines doivent saisir les tribunaux afin de réaliser cette agence au nom des entités de ressources naturelles. Le projet terra0 va encore plus loin, en reliant l'entité ressource à des capteurs, des portefeuilles et en en faisant un DAO qui peut initier des actions par lui-même.
 
