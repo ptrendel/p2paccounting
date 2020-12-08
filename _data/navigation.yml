@@ -11,10 +11,16 @@ book:
         url: /book/avant-propos.html
       - title: "Résumé"
         url: /book/resume.html
+
   - title: "1 : Le contexte de cette étude"
     children:
       - title: "L’étude de la Fondation P2P sur les biens communs et la transition des biens communs"
-        url: /book/chapitre1.html
+        url: /book/chapitre1_1.html
+      - title: "La valeur dans les communs"
+        url: /book/chapitre1_2.html
+      - title: "The emerging crypto economy as a signpost for the cosmo-local transition"
+        url: /book/chapitre1_3.html
+        
   - title: "2 : Outils et technologies pour des écosystèmes de production intégrés, équitables et durables"
     url: /book/chapitre2.html
     children:
@@ -24,4 +30,16 @@ book:
         url: /book/chapitre2.html#outils-dint%C3%A9gration-mutuelle
       - title: "Outils de circulation et d'échange"
         url: /book/chapitre2.html#outils-de-circulation-et-d%C3%A9change
-        
+
+  - title: "3: Évolution de la comptabilité "
+    url: /book/chapitre3.html
+    children: 
+      - title: "Nouveaux cadres de comptabilité et de planification"
+        url: /book/chapitre3_1.html
+      - title: "Prise en compte de l'impact et des externalités"
+        url: /book/chapitre3_2.html
+      - title: "Intégration multicouche: comment les nouvelles technologies s'associent"
+        url: /book/chapitre3_3.html
+      - title: "Production pour les besoins sociaux dans les limites planétaires"
+        url: /book/chapitre3_4.html
+      
