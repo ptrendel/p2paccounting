@@ -32,10 +32,17 @@ L'objectif de ce rapport est donc d'encourager l'ouverture d'esprit à l'égard 
 
 
 >"Dès que nous cesserons d'optimiser l'économie numérique pour la croissance du capital et que nous l'optimiserons plutôt pour la circulation de la valeur entre les personnes, tout commencera à s'améliorer très vite".  
-***Douglas Rushkoff***
+***Douglas Rushkoff***  [^1]
 
->"Dans le prochain système économique, la "valeur" signifiera la santé de la planète, et non les chiffres d'un bilan".
+>"Dans le prochain système économique, la "valeur" signifiera la santé de la planète, et non les chiffres d'un bilan".  
 ***John Thackara***
 
->"Ce qui se passe aujourd'hui, c'est plus que quelques oublis comptables ici et là. La distance entre les systèmes industriels actuels et les systèmes industriels réellement durables - des systèmes qui ne dépensent pas le capital naturel stocké mais qui s'intègrent plutôt dans les flux actuels d'énergie et de matières - n'est pas une distance de degré, mais une distance de genre. Ce qu'il faut, ce n'est pas seulement une meilleure comptabilité, mais un nouveau système industriel mondial, une nouvelle façon d'assurer le bien-être humain, et vite".
-***David Roberts***
+>"Ce qui se passe aujourd'hui, c'est plus que quelques oublis comptables ici et là. La distance entre les systèmes industriels actuels et les systèmes industriels réellement durables - des systèmes qui ne dépensent pas le capital naturel stocké mais qui s'intègrent plutôt dans les flux actuels d'énergie et de matières - n'est pas une distance de degré, mais une distance de genre. Ce qu'il faut, ce n'est pas seulement une meilleure comptabilité, mais un nouveau système industriel mondial, une nouvelle façon d'assurer le bien-être humain, et vite".  
+***David Roberts***  [^2]
+
+>"Like so much that the P2P Foundation has done before, this is a paradigm-making vision for how to flip the future of the economy right side up. Once I started reading, I couldn’t put it down until I was done. It was hard to imagine leaving the world it describes for the one we have."  
+***Nathan Schneider***
+
+[^1]: https://kernelmag.dailydot.com/issue-sections/features-issue-sections/15982/douglas-rushkoff- throwing-rocks-at-the-google-bus-interview/
+[^2]: https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they- paid-for-the-natural-capital-they-use/
+
