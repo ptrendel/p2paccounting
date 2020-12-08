@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The role of labour mutuals,commonfare and post-subordinate workers"
+title: "Le rôle des mutuelles de travail, de la protection sociale et des travailleurs post-subordonnés"
 header:
     image : /assets/images/chapitre1_illustr3.png
 sidebar:
@@ -8,4 +8,4 @@ sidebar:
 read_time: true
 ---
 
-An increased number of workers, especially in Western countries, are either forced or choose to work more ‘autonomously,’ considering work as a series of contributions or projects, but such a transition is often characterized by precarious living conditions. One of the ways to remedy this is through the creation of labour mutuals, through which workers start to mutualize their common work infrastructure, as well as to facilitate access to social security services. One of the potential solutions is the model of a post-subordinate salariat, i.e., a model through which workers retain their freedom to choose or refuse projects, yet join a co-owned cooperative in which they are formally salaried, thus benefit from social security. In such a scheme, members’ invoices are bundled to generate a regular salary upon which taxes will be paid, but in exchange for access to the services of the welfare state. Such a model is developed, for example, by the SMart cooperative (SMart.coop), which is active in nine different European countries.
+Un nombre croissant de travailleurs, en particulier dans les pays occidentaux, sont contraints ou choisissent de travailler de manière plus "autonome", considérant le travail comme une série de contributions ou de projets, mais une telle transition est souvent caractérisée par des conditions de vie précaires. L'un des moyens d'y remédier est la création de mutuelles de travail, par lesquelles les travailleurs commencent à mutualiser leur infrastructure de travail commune, ainsi qu'à faciliter l'accès aux services de sécurité sociale. L'une des solutions possibles est le modèle du salariat post-subordonné, c'est-à-dire un modèle dans lequel les travailleurs conservent leur liberté de choisir ou de refuser des projets, tout en adhérant à une coopérative de copropriété dans laquelle ils sont officiellement salariés, bénéficiant ainsi de la sécurité sociale. Dans un tel régime, les factures des membres sont regroupées pour générer un salaire régulier sur lequel les impôts seront payés, mais en échange de l'accès aux services de l'État-providence. Un tel modèle est développé, par exemple, par la coopérative SMart (SMart.coop), qui est active dans neuf pays européens différents.

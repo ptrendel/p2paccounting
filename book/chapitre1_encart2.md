@@ -8,10 +8,12 @@ sidebar:
 read_time: true
 ---
 
-The research base of the P2P Foundation started with a re- examination of the logic of transition periods, when one social or civilisation system is replaced by another. The key focus of the P2P Foundation is observing and understanding seed forms that exemplify successor systems. We started by examining networked socialities and open-source production communities, that are developing commons-centric forms of organization.
+La base de recherche de la Fondation P2P a commencé par un nouvel examen de la logique des périodes de transition, lorsqu'un système social ou civilisationnel est remplacé par un autre. L'objectif principal de la Fondation P2P est d'observer et de comprendre les formes de semences qui illustrent les systèmes de succession. Nous avons commencé par examiner les socialités en réseau et les communautés de production à code source ouvert, qui développent des formes d'organisation centrées sur les points communs.
 
-Based on our understanding of the logics of peer production, peer governance and peer property, we focused on the optimal relationships between the commons and the market, and the question of creating ethical livelihoods by tweaking and transforming market practice to allow the emergence of a commons-centric economy.
+Sur la base de notre compréhension des logiques de production, de gouvernance et de propriété des pairs, nous nous sommes concentrés sur les relations optimales entre les biens communs et le marché, et sur la question de la création de moyens de subsistance éthiques en modifiant et en transformant les pratiques du marché pour permettre l'émergence d'une économie centrée sur les biens communs.
 
-Subsequently, we moved to public-commons cooperation and the commonification of public services, i.e. looking at how cities, regions and state could relate to the emergence of these new forms of civic collaboration.
+Par la suite, nous sommes passés à la coopération entre les biens communs et à la communisation des services publics, c'est-à-dire à l'examen de la manière dont les villes, les régions et l'État pourraient s'associer à l'émergence de ces nouvelles formes de collaboration civique.
 
-Once a grounded understanding of these three institutional realities and their mutual relations was in place, we started focusing on the enabling conditions, centering on two main themes: the sustainability of material production (i.e., the thermodynamics of peer production), as well as new forms of human solidarity for the contributive economy in a networked age (commonfare).
+Une fois qu'une compréhension fondée de ces trois réalités institutionnelles et de leurs relations mutuelles a été mise en place, nous avons commencé à nous concentrer sur les conditions favorables, en nous concentrant sur deux thèmes principaux : la durabilité de la production matérielle (c'est-à-dire la thermodynamique de la production par les pairs), ainsi que les nouvelles formes de solidarité humaine pour l'économie contributive dans une ère de réseaux (commonfare).
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
