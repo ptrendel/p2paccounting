@@ -2,7 +2,7 @@
 layout: single
 title: "Remerciements"
 header:
-    image : /assets/images/chapitre3.png
+    image : /assets/images/acknowlegements.png
 sidebar:
   nav: "book"
 ---

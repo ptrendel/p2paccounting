@@ -2,7 +2,7 @@
 layout: single
 title: "Bibliographie"
 header:
-    image : /assets/images/chapitre3.png
+    image : /assets/images/bibliography.png
 sidebar:
   nav: "book"
 ---

@@ -2,6 +2,8 @@
 main:
   - title: "A propos"
     url: /apropos/
+  - title: "Licence"
+    url: /licence/
 book:
   - title: Introduction
     children:
