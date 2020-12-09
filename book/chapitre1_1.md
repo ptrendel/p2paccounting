@@ -91,10 +91,10 @@ Les deux sections suivantes décrivent ce que nous avons découvert sur les flux
 ![P2P socio-technical dynamics]({{ site.baseurl }}/assets/images/chapitre1_figure5.png)
 *Figure 5 : The three great spheres of social life in commons transition*
 
-## Encadré : L'évolution des communs
+>## Encadré : L'évolution des communs
 [Lire l'encadré]({{ site.baseurl }}/book/chapitre1_encart1.html)
 
-## Encadré : L'évolution de la recherche à la P2P Foundation
+>## Encadré : L'évolution de la recherche à la P2P Foundation
 [Lire l'encadré]({{ site.baseurl }}/book/chapitre1_encart2.html)
 
 

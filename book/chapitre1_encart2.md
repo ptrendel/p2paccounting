@@ -15,5 +15,3 @@ Sur la base de notre compréhension des logiques de production, de gouvernance e
 Par la suite, nous sommes passés à la coopération entre les biens communs et à la communisation des services publics, c'est-à-dire à l'examen de la manière dont les villes, les régions et l'État pourraient s'associer à l'émergence de ces nouvelles formes de collaboration civique.
 
 Une fois qu'une compréhension fondée de ces trois réalités institutionnelles et de leurs relations mutuelles a été mise en place, nous avons commencé à nous concentrer sur les conditions favorables, en nous concentrant sur deux thèmes principaux : la durabilité de la production matérielle (c'est-à-dire la thermodynamique de la production par les pairs), ainsi que les nouvelles formes de solidarité humaine pour l'économie contributive dans une ère de réseaux (commonfare).
-
-Traduit avec www.DeepL.com/Translator (version gratuite)

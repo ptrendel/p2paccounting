@@ -35,7 +35,7 @@ Notre argument est qu'une constellation des outils et technologies nécessaires 
 
 L'élément crucial pour notre argumentation dans ce rapport est que la culture et les technologies actuelles doivent être examinées, dans leur capacité d'intégration à créer un nouveau système de production durable. C'est le sujet de notre chapitre, mais d'abord, nous allons maintenant compléter notre aperçu des outils en examinant les cadres de comptabilité et de planification.
 
-## Encadré : De quel type d'argent avons-nous besoin ?
+>## Encadré : De quel type d'argent avons-nous besoin ?
 [Lire l'encadré]({{ site.baseurl }}/book/chapitre3_encart1.html)
 
 

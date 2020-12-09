@@ -20,6 +20,8 @@ book:
         url: /book/chapitre1_2.html
       - title: "L'émergence de la cryptoéconomie en tant qu'indicateur de la transition cosmo-locale "
         url: /book/chapitre1_3.html
+      - title: "Notre vision"
+        url: /book/chapitre1_4.html
         
   - title: "2 : Outils et technologies pour des écosystèmes de production intégrés, équitables et durables"
     url: /book/chapitre2.html
@@ -42,4 +44,10 @@ book:
         url: /book/chapitre3_3.html
       - title: "Production pour les besoins sociaux dans les limites planétaires"
         url: /book/chapitre3_4.html
+
+  - title: "Remerciements"
+    url: /book/remerciements.html
+
+  - title: "Bibliographie"
+    url: /book/bibliographie.html
       

@@ -14,9 +14,13 @@ Pour en savoir plus lire l'article sur le site [Commons Transition](https://comm
 
 Si vous n'êtes pas familiers de l'édition sur Github, on peut en discuter sur : [https://chat.lescommuns.org/channel/p2pf](https://chat.lescommuns.org/channel/p2pf)
 
+## Une comptabilité pair à pair pour la Survie de la planète
+### Vers une infrastructure P2P pour une société circulaire socialement juste 
+Comment des chaînes d'approvisionnement perma-circulaires partagées, des grands livres distribués après la chaîne de blocage, des coopératives de protocole et trois nouvelles formes de comptabilité post-capitaliste pourraient très bien sauver la planète.
 
+*Par Michel Bauwens and Alex Pazaitis*
 
-
+Une publication conjointe avec la P2P Foundation, Guerrilla Foundation et la Schoepflin Foundation.
 
 
 
