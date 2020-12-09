@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "A propos"
-    url: /apropos/
+    url: /apropos.html
   - title: "Licence"
-    url: /licence/
+    url: /licence.html
 book:
   - title: Introduction
     children:
